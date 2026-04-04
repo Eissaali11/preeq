@@ -1,0 +1,7 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='600' viewBox='0 0 800 600'>
+  <rect width='100%' height='100%' fill='#fff7f2'/>
+  <rect x='40' y='40' width='720' height='520' rx='14' fill='#fff' stroke='#ffd9b3' stroke-width='2'/>
+  <g fill='#ff6a00' font-family='Cairo, Arial' font-size='40' font-weight='800'>
+    <text x='60' y='320'>Post Production</text>
+  </g>
+</svg>

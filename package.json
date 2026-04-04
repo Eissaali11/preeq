@@ -1,0 +1,12 @@
+{
+  "name": "bareeq-agency",
+  "version": "1.0.0",
+  "description": "Bareeq Studio — cinematic photography & visual production agency",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "deploy": "firebase deploy --only hosting"
+  },
+  "dependencies": {
+    "firebase": "^11.0.0"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+.firebase/
+.history/
+package-lock.json
